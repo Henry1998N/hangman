@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.lineThrough {
+  text-decoration: line-through;
+  color: red;
+}
+.high {
+  color: green;
+}
+.medium {
+  color: yellow;
+}
+.low {
+  color: red;
+}
